@@ -1,3 +1,5 @@
 this is a license
 this is branch
 this is a confilicate and error
+disabled git fast forward
+git branch1 change the file
