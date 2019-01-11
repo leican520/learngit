@@ -5,3 +5,4 @@ GitµÚÈý´Î¸Ä¶¯
 Git has a mutable index called stage.
 Git tracks changes of files.
 remote change file.
+use vim Edit file.
