@@ -2,3 +2,6 @@ this is a license
 this is branch
 this is a confilicate and error
 modified hahah override 
+disabled git fast forward
+git branch1 change the file:wq
+
